@@ -1,0 +1,9 @@
+{
+  "ApiClientUrl": "http://localhost:8888/api/",
+  "GetTokenPath": "/token/get",
+  "GetListOfTestsPath": "test/get/json",
+  "AddTestPath": "/test/put",
+  "AddLogToTestPath": "/test/put/log",
+  "AddScreenShotToTestPath": "/test/put/attachment",
+  "AttachmentContentType": "image/png"
+}

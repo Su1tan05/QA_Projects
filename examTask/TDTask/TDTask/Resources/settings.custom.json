@@ -1,0 +1,6 @@
+{
+	"Url": "http://localhost:8888/web/",
+	"SessionIdLength": 10,
+	"Env": "",
+	"TestLogPath": "./Log/log.log"
+}
